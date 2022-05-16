@@ -1,5 +1,5 @@
 This message is from master branch 
-This message is from Second file
+This is to get conflict
 This message is from first branch
 This message created in online repository 
 this change is from third file
